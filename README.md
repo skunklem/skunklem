@@ -1,18 +1,8 @@
-- 👋 Hi, I’m @skunklem
+- 👋 Hi, I’m Sam Kunkleman
 
-- 👀 I’m interested in ...
-    nature, exploration, using scientific development to improve/simplify things for the future
-    
-- 🌱 I’m currently learning ...
-    bioinformatics skills: python, pandas, unix-based programs, molecular sequence analysis, how molecules interact
-    
-- 💞️ I’m looking to collaborate on ...
-    anything interesting
-    
 - 📫 How to reach me ...
-    skunklem@uncc.edu
-    samkunkleman@yahoo.com
-    704-575-1796
+    * skunklem@uncc.edu
+    * samkunkleman@yahoo.com
 
 <!---
 skunklem/skunklem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
