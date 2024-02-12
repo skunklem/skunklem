@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam Kunkleman
 
 - 📫 How to reach me ...
-    * skunklem@uncc.edu
+    * skunklem@charlotte.edu
     * samkunkleman@yahoo.com
 
 <!---
